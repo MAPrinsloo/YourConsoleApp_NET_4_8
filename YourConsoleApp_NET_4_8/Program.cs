@@ -10,6 +10,7 @@ namespace YourConsoleApp_NET_4_8
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Testing CI");
         }
     }
 }
